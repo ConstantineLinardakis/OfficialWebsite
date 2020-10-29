@@ -1,4 +1,4 @@
-# OfficialWebsite
+![OfficialWebsite](https://github.com/ConstantineLinardakis/OfficialWebsite/blob/main/THUMBNAIL.png)
 
 ___
 
