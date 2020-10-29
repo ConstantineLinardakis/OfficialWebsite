@@ -16,7 +16,7 @@ ___
 
 ___
 
-### @ Constantine Linardakis | Oct.29.2020
+### @ Constantine Linardakis | constantinelinardakis@gmail.com
 
 
  
