@@ -12,7 +12,7 @@ My website will include information about me, games i've created and videos. Fee
 ___
 
 ## Documentation
-⋅⋅1. Creating The Repo
+10.29 - Creating The Repo
 
 ___
 
