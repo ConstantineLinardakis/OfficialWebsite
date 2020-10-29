@@ -7,6 +7,6 @@ My website will include information about me, games i've created and videos. Fee
 
 ___
 
-### This is made by Constantine Linardakis.
+### @ Constantine Linardakis | Oct.29.2020
 
 
