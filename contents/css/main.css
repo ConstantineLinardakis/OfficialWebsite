@@ -124,7 +124,7 @@ header > h2 {
     border-radius: 25px;
 }
 
-.burger div{
+.mainhead > burger div{
     width: 25px;
     height: 3px;
     background-color: white;
