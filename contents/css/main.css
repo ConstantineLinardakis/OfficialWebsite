@@ -124,7 +124,7 @@ header > h2 {
     border-radius: 25px;
 }
 
-/* BURGER LINES  */
+/* BURGER LINES (FIX LATER)
 .burger{
     display: none;
 }
@@ -140,6 +140,8 @@ header > h2 {
     background-color: white;
     margin: 5px;
 }
+
+*/
 
 .mainhead-icons {
     text-align: center;
