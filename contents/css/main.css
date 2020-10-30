@@ -132,7 +132,7 @@ header > h2 {
 
 .burger div{
     position: absolute;
-    top: 7%;
+    top: 2%;
     left: 90%;
     width: 25px;
     height: 3px;
@@ -367,7 +367,7 @@ html, body, .full {
 }
 
 
-
+/*
 @media screen and (max-width:768px){
     .mainhead > mainhead-icons{
         position:absolute;
@@ -381,3 +381,6 @@ html, body, .full {
     }
 }
 
+fix later
+
+*/
