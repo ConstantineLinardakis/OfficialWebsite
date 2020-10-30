@@ -369,7 +369,7 @@ html, body, .full {
 
 
 @media screen and (max-width:768px){
-    .mainhead{
+    .mainhead > mainhead-icons{
         position:absolute;
             right: 0px;
             height: 92vh;
