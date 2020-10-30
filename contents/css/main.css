@@ -124,25 +124,6 @@ header > h2 {
     border-radius: 25px;
 }
 
-/* BURGER LINES (FIX LATER)
-.burger{
-    display: none;
-}
-
-
-.burger div{
-    position: absolute;
-    top: 2%;
-    left: 90%;
-    width: 25px;
-    height: 3px;
-    color: white;
-    background-color: white;
-    margin: 5px;
-}
-
-*/
-
 .mainhead-icons {
     text-align: center;
     width:300;
@@ -367,22 +348,3 @@ html, body, .full {
        padding-bottom: 8px;
     }
 }
-
-
-/*
-@media screen and (max-width:768px){
-    .mainhead > mainhead-icons{
-        position:absolute;
-            right: 0px;
-            height: 92vh;
-            top: 8vh;
-            background-color: #3156a0;
-            display:flex;
-            flex-direction: column;
-            align-items: center;
-    }
-}
-
-fix later
-
-*/
