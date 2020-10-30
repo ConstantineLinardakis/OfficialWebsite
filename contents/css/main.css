@@ -125,6 +125,8 @@ header > h2 {
 }
 
 .mainhead > burger div{
+    top: 7%;
+    left: 80%;
     width: 25px;
     height: 3px;
     background-color: white;
