@@ -294,7 +294,8 @@ html, body, .full {
 
 @media screen and (max-width: 768px) {
     .footer {
-        display: flex;
+        opacity: 0;
+        height: 0;
     }
 }
 
