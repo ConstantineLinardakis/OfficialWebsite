@@ -1,7 +1,7 @@
 
 [![Website](https://github.com/ConstantineLinardakis/OfficialWebsite/blob/main/THUMBNAIL.png)](https://constantinelinardakis.github.io/OfficialWebsite/Home.html)
 
-# CLICK TO BE TAKEN TO WEBSITE ^
+# ^ CLICK  ^
 
 ___
 
