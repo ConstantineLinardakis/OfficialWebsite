@@ -264,21 +264,21 @@ html, body, .full {
 
 /* MEDIA QUERRIES FOR RESPONSIVNESS (CHANGING SIZE) */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 300px) {
     .subhead {
         opacity: 0;
         height: 0;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 300px) {
     .head {
         opacity: 0;
         height: 0;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 300px) {
     .mainhead {
         opacity: 0;
         height: 0;
