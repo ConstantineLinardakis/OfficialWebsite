@@ -125,6 +125,10 @@ header > h2 {
 }
 
 /* BURGER LINES  */
+.burger{
+    display: none;
+}
+
 
 .burger div{
     position: absolute;
@@ -359,6 +363,21 @@ html, body, .full {
     header > h1 {
        font-size: 25px;
        padding-bottom: 8px;
+    }
+}
+
+
+
+@media screen and (max-width:768px){
+    .mainhead{
+        position:absolute;
+            right: 0px;
+            height: 92vh;
+            top: 8vh;
+            background-color: #3156a0;
+            display:flex;
+            flex-direction: column;
+            align-items: center;
     }
 }
 
