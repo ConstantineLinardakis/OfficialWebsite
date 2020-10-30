@@ -266,35 +266,32 @@ html, body, .full {
 
 @media screen and (max-width: 768px) {
     .subhead {
-        opacity: 0;
-        height: 0;
+        width: 200px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .head {
-        opacity: 0;
-        height: 0;
+        width: 200px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .mainhead {
-        opacity: 0;
-        height: 0;
+        width: 200px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .infohead {
-        opacity: 0;
-        height: 0;
+        width: 200px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .footer {
-        width: 200px;
+        opacity: 0;
+        height: 0;
     }
 }
 
