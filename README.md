@@ -15,7 +15,7 @@ My website will include information about me, games i've created and videos. Fee
 ___
 
 ## Documentation
-10.29 - Creating The Repo / Adding Existing Files
+10.29 - Creating The Repo / Adding Existing Files / Created Class Diagram
 
 ___
 
