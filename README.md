@@ -21,8 +21,9 @@ ___
 
 ___
 
-### Class Diagram Idea
+### Class Diagram Idea's
 <img src="https://github.com/ConstantineLinardakis/OfficialWebsite/blob/main/doc/ClassDiagram.png">
+<img src="https://github.com/ConstantineLinardakis/OfficialWebsite/blob/main/doc/Class2.png">
 
 ___
 #### @ Constantine Linardakis | constantinelinardakis@gmail.com
