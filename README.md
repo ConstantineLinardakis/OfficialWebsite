@@ -21,7 +21,11 @@ ___
 
 ___
 
-### @ Constantine Linardakis | constantinelinardakis@gmail.com
+### Class Diagram Idea
+<img src="https://github.com/ConstantineLinardakis/OfficialWebsite/blob/main/doc/ClassDiagram.png">
+
+___
+#### @ Constantine Linardakis | constantinelinardakis@gmail.com
 
 
  
