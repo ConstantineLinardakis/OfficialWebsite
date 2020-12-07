@@ -1,5 +1,5 @@
 
-[![Website](https://github.com/ConstantineLinardakis/OfficialWebsite/blob/main/THUMBNAIL.png)](https://constantinelinardakis.github.io/OfficialWebsite/Home.html)
+[![Website](https://github.com/ConstantineLinardakis/OfficialWebsite/blob/main/doc/THUMBNAIL.png)](https://constantinelinardakis.github.io/OfficialWebsite/Home.html)
 
 # ^ CLICK  ^
 
@@ -16,6 +16,7 @@ ___
 
 ## Documentation
 10.29 - Creating The Repo / Adding Existing Files / Created Class Diagram
+12.07 - Fixing GITHUB Files / Creating doc folder
 
 ___
 
