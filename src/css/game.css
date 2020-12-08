@@ -21,7 +21,7 @@ header {
 .outline {
     position: absolute;
     height: 950px;
-    width: 950px;
+    width: 1080px;
     top:30%;
     left:6%;
     box-shadow: 0 0 100px rgba(0,0,0,0.9) inset;
@@ -29,7 +29,6 @@ header {
     background-color: #3156a0;
     border-radius: 25px;
     transition: all 0.7s;
-    margin: 0 auto;
 }
 
 
@@ -45,14 +44,27 @@ header {
 
 /* MEDIA SCREEN QUARIES  */
 
+@media screen and (min-width: 768px) {
+    .outline {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .outline {
+        width: 90%;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .footer {
         align-items: center;
     }
 }
 
-@media screen and (max-width: 768px) {
-    .outline {
-        align-self:center;
-    }
-}
+
+
+
+
+
+
