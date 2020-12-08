@@ -17,7 +17,7 @@ ___
 ## Documentation
 10.29 - Creating The Repo / Adding Existing Files / Created Class Diagram
 
-12.07 - Fixing GITHUB Files / Creating doc folder
+12.07 - Fixing GITHUB Files / Creating doc folder / Making BOX for Game Page
 
 ___
 
