@@ -31,6 +31,11 @@ header {
     transition: all 0.7s;
 }
 
+/* OUTLINE GAME LINKS  */
+.gamelinks {
+   position: absolute;
+   left:6%;
+}
 
 /* BOTTOM FOOTER  */
 
