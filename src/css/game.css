@@ -21,7 +21,7 @@ header {
 .outline {
     position: absolute;
     height: 1950px;
-    width: 25%;
+    width: 1080px;
     top:30%;
     left:6%;
     box-shadow: 0 0 100px rgba(0,0,0,0.9) inset;
@@ -68,7 +68,7 @@ header {
 /* BOTTOM FOOTER  */
 
 .footer {
-    position:absolute;
+   position:absolute;
    bottom:-350px;
    width:100%;
    transition: all 0.7s;
