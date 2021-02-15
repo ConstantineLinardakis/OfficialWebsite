@@ -23,7 +23,7 @@ header {
 
 .outline {
     position: absolute;
-    width: 80%;
+    width: 1080px;
     top:30%;
     left:6%;
     box-shadow: 0 0 100px rgba(0,0,0,0.9) inset;
