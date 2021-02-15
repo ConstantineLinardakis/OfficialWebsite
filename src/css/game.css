@@ -20,8 +20,6 @@ header {
 
 .outline {
     position: absolute;
-    height: 1950px;  
-    width: 1080px;
     top:30%;
     left:6%;
     box-shadow: 0 0 100px rgba(0,0,0,0.9) inset;
@@ -34,7 +32,7 @@ header {
 /* OUTLINE GAME LINKS  */
 .gamelinkss {
    position: absolute;
-   top:30%;
+   top:25%;
    left:6%;
    width: 100%;
    max-width: 500px;
