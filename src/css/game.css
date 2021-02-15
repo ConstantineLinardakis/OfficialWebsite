@@ -16,12 +16,15 @@ header {
     outline-style: outset;
 }
 
-/* OUTLINE OF THE GAME LINKS  */
+/* OUTLINE OF THE GAME LINKS 
+ height: 1950px;  
+    width: 1080px;
+*/
 
 .outline {
     position: absolute;
-    height: 1950px;
-    width: 1080px;
+    height: 50%;  
+    width: 50%;
     top:30%;
     left:6%;
     box-shadow: 0 0 100px rgba(0,0,0,0.9) inset;
