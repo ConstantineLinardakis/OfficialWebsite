@@ -37,7 +37,7 @@ header {
 /* OUTLINE GAME LINKS  */
 .gamelinkss {
    position: relative;
-   top:50%;
+   top:10%;
    left:6%;
    width: 100%;
    max-width: 500px;
