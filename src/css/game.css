@@ -20,7 +20,7 @@ header {
 
 .outline {
     position: absolute;
-    height: 950px;
+    height: 1950px;
     width: 1080px;
     top:30%;
     left:6%;
@@ -37,7 +37,7 @@ header {
    top:30%;
    left:6%;
    width: 100%;
-   max-width: 250px;
+   max-width: 500px;
 }
 
 .image1 {
