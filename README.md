@@ -15,9 +15,11 @@ My website will include information about me, games i've created and videos. Fee
 ___
 
 ## Documentation
-10.29 - Creating The Repo / Adding Existing Files / Created Class Diagram
+10.29.20 - Creating The Repo / Adding Existing Files / Created Class Diagram
 
-12.07 - Fixing GITHUB Files / Creating doc folder / Making BOX for Game Page
+12.07.20 - Fixing GITHUB Files / Creating doc folder / Making BOX for Game Page
+
+02.04.21 - Adding Images/HREF Links to Game Page
 
 ___
 
