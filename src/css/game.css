@@ -36,7 +36,8 @@ header {
    top:15%;
    left:6%;
    width: 100%;
-   max-width: 500px;
+   max-width: 1000px;
+   max-height: 1000px;
 }
 
 .image1 {
