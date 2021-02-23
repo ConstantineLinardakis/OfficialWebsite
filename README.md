@@ -15,6 +15,9 @@ My website will include information about me, games i've created and videos. Fee
 ___
 
 ## Documentation
+
+09-10.28.20 - Making the HTML On Visual Studio and Starting Project 
+
 10.29.20 - Creating The Repo / Adding Existing Files / Created Class Diagram
 
 12.07.20 - Fixing GITHUB Files / Creating doc folder / Making BOX for Game Page
