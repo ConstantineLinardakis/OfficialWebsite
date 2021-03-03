@@ -31,7 +31,7 @@ header {
 }
 
 /* OUTLINE IMAGE ICON */
-.costaicon {
+.outline > .costaicon {
     position: absolute;
     top:15%;
     left:6%;
