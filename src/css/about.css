@@ -35,15 +35,15 @@ header {
     position: absolute;
     top:15%;
     left:6%;
-    width: 100%;
-    max-width: 500px;
+    width: 500px;
+    height: 500px;
  }
 
 /* OUTLINE PARAGRAPHS */
 .outline > p1 {
     position: absolute;
     top:15%;
-    left:10%
+    right:10%
 }
 
 /* BOTTOM FOOTER  */
