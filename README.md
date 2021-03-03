@@ -24,6 +24,8 @@ ___
 
 02.04.21 - Adding Images/HREF Links to Game Page
 
+03.03.21 - Adding Images/Box To About Page
+
 ___
 
 ### Class Diagram Idea's
