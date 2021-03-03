@@ -39,6 +39,13 @@ header {
     max-width: 500px;
  }
 
+/* OUTLINE PARAGRAPHS */
+.outline > p1 {
+    position: absolute;
+    top:15%;
+    left:10%
+}
+
 /* BOTTOM FOOTER  */
 
 .footer {
