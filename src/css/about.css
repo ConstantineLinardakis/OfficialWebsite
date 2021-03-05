@@ -43,7 +43,7 @@ header {
     max-width: 500px;
     max-height: 500px;
     transition: all 0.7s;
-    float:right;
+    float:left;
     border-radius:50%;
     shape-outside: url(https://raw.githubusercontent.com/ConstantineLinardakis/OfficialWebsite/main/src/assets/OTHERLOGO%20TRANSPARENT.png);
     shape-margin: 15px;
@@ -55,11 +55,7 @@ header {
 /* OUTLINE PARAGRAPHS */
 .outline > p {
     display:block;
-    float:none;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    float:left;
     /* 
     position: absolute;
     top:10%;
@@ -69,6 +65,7 @@ header {
     color:white;
     font-family: 'Abel', sans-serif;
     transition: all 0.7s;
+    margin:10px;
 }
 
 /* BOTTOM FOOTER  */
