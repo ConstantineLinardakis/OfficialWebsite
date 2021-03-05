@@ -35,8 +35,6 @@ header {
 
 /* OUTLINE IMAGE ICON */
 .costaicon {
-    width: 350px;
-    height: 350px;
     transition: all 0.7s;
     float:left;
     border-radius:50%;
