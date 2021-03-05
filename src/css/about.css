@@ -35,32 +35,17 @@ header {
 
 /* OUTLINE IMAGE ICON */
 .costaicon {
-    position: absolute;
-    top:0%;
-    left:0%;
     width: 350px;
     height: 350px;
-    max-width: 500px;
-    max-height: 500px;
     transition: all 0.7s;
     float:left;
     border-radius:50%;
-    shape-outside: url(https://raw.githubusercontent.com/ConstantineLinardakis/OfficialWebsite/main/src/assets/OTHERLOGO%20TRANSPARENT.png);
-    shape-margin: 15px;
-    shape-image-threshold: 0.5;
-    mask-image: url(https://raw.githubusercontent.com/ConstantineLinardakis/OfficialWebsite/main/src/assets/OTHERLOGO%20TRANSPARENT.png);
     margin:10px;
  }
 
 /* OUTLINE PARAGRAPHS */
 .outline > p {
     display:block;
-    float:left;
-    /* 
-    position: absolute;
-    top:10%;
-    left:35%;
-    */
     font-size: 20px;
     color:white;
     font-family: 'Abel', sans-serif;
