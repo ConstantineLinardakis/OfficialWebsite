@@ -9,7 +9,7 @@ ___
 My website will include information about me, games i've created and videos. Feel free to check it out.
 
 <dl>
-  <dt>HTML & CSS </dt>
+  <dt>HTML & CSS & JS </dt>
 </dl>
 
 ___
