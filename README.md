@@ -26,6 +26,8 @@ ___
 
 03.03.21 - Adding Images/Box To About Page
 
+03.15.21 - Fixing / Wrapping Images & Links In Boxes
+
 ___
 
 ### Class Diagram Idea's
