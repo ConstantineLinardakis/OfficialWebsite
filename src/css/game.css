@@ -19,6 +19,7 @@ header {
 /* OUTLINE OF THE GAME LINKS */
 
 .outline {
+    overflow-y: scroll;
     position: absolute;
     height:90%;
     top:30%;
@@ -32,11 +33,36 @@ header {
 
 /* OUTLINE GAME LINKS  */
 .gamelinkss {
-   top:15%;
-   left:6%;
-   width: 100%;
-   max-width: 500px;
+   padding: 1em;
+   grid-template-columns: repeat(auto-fill, 200px);
+   display: grid;
+   grid-gap: 1em;
 }
+
+.gamelinkss > :hover{
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 15px #ccc;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.gamelinkss > .Sniper{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+/* SCROLL BAR  */
+
+::-webkit-scrollbar{
+    width: 1em;
+}
+
 
 .image1 {
     display: block;
@@ -73,10 +99,4 @@ header {
         align-items: center;
     }
 }
-
-
-
-
-
-
 
