@@ -28,6 +28,8 @@ ___
 
 03.15.21 - Fixing / Wrapping Images & Links In Boxes
 
+03.19.21 - Working on Video Page
+
 ___
 
 ### Class Diagram Idea's
