@@ -20,6 +20,7 @@ header {
 /* OUTLINE & BOX */
 
 .outline {
+    overflow-y: auto;
     position: absolute;
     height:90%;
     top:30%;
@@ -50,6 +51,30 @@ header {
     transition: all 0.7s;
     margin:10px;
 }
+
+.outline > p2 {
+    display:block;
+    font-size: 20px;
+    color:white;
+    font-family: 'Abel', sans-serif;
+    transition: all 0.7s;
+    text-align: center;
+    text-decoration-line: overline;
+    margin:10px;
+}
+
+.outline > p3 {
+    display:block;
+    font-size: 20px;
+    color:white;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    transition: all 0.7s;
+    text-align: center;
+    text-decoration-line: underline;
+    margin:10px;
+}
+
 
 /* BOTTOM FOOTER  */
 
