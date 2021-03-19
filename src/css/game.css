@@ -19,7 +19,7 @@ header {
 /* OUTLINE OF THE GAME LINKS */
 
 .outline {
-    overflow-y: scroll;
+    overflow-y: auto;
     position: absolute;
     height:90%;
     top:30%;
@@ -99,4 +99,10 @@ header {
         align-items: center;
     }
 }
+
+
+
+
+
+
 
