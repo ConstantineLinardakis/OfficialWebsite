@@ -45,18 +45,6 @@ header {
     box-shadow: 0 0 10px #ccc;
 }
 
-.gamelinkss > .Sniper{
-    color: white;
-    font-size: 20px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    text-align: center;
-}
-
 /* SCROLL BAR  */
 
 ::-webkit-scrollbar{
@@ -101,6 +89,49 @@ header {
 }
 
 
+/* iPhone X and Xs Max */
+@media only screen 
+    and (min-device-width: 375px) 
+    and (min-device-height: 812px) 
+    and (-webkit-device-pixel-ratio: 3)
+    and (orientation: portrait) { 
+
+        header {
+            width: 90%
+        }
+  
+        .outline {
+            width: 90%
+        }
+  
+        .footer {
+            width: 100%;
+            align-items: center;
+        }
+  
+}
+
+/* iPhone XR */
+@media only screen 
+    and (min-device-width: 414px) 
+    and (min-device-height: 896px) 
+    and (-webkit-device-pixel-ratio: 2) 
+    and (orientation: portrait) {
+
+        header {
+          width: 90%
+        }
+
+        .outline {
+          width: 90%
+         }
+
+        .footer {
+          width: 100%;
+          align-items: center;
+        }
+
+}
 
 
 
