@@ -89,6 +89,50 @@ header {
     }
 }
 
+
+/* MEDIA SCREEN QUARIES HEADER / BOX  */
+
+@media screen and (max-height: 746px) {
+    header  {
+        top:30%;
+    }
+
+    .outline {
+        top:40%;
+    }
+}
+
+@media screen and (max-height: 630px) {
+    header  {
+        top:35%;
+    }
+
+    .outline {
+        top:45%;
+    }
+}
+
+@media screen and (max-height: 536px) {
+    header  {
+        top:40%;
+    }
+
+    .outline {
+        top:50%;
+    }
+}
+
+@media screen and (max-height: 462px) {
+    header  {
+        top:45%;
+    }
+
+    .outline {
+        top:55%;
+    }
+}
+
+
 /* iPhone X and Xs Max */
 @media only screen 
     and (min-device-width: 375px) 
@@ -97,15 +141,18 @@ header {
     and (orientation: portrait) { 
 
         header {
-            width: 90%
+            width: fit-content;
+            height:fit-content;
         }
   
         .outline {
-            width: 90%
+            width: fit-content;
+            height:fit-content;
         }
   
         .footer {
-            width: 100%;
+            width: fit-content;
+            height:fit-content;
             align-items: center;
         }
   
@@ -119,16 +166,19 @@ header {
     and (orientation: portrait) {
 
         header {
-          width: 90%
+            width: fit-content;
+            height:fit-content;
         }
 
         .outline {
-          width: 90%
+            width: fit-content;
+            height:fit-content;
          }
 
         .footer {
-          width: 100%;
-          align-items: center;
+            width: fit-content;
+            height:fit-content;
+            align-items: center;
         }
 
 }
