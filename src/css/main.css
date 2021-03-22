@@ -265,46 +265,136 @@ html, body, .full {
 
 /* MEDIA QUERRIES FOR RESPONSIVNESS (CHANGING SIZE) */
 
-@media screen and (max-width: 768px) {
-    .subhead {
-        width:90%
+/* MEDIA QUERRIES FOR h1 & H2 & LINKS */
+
+@media screen and (max-width: 936px) {
+    .head{
+        left: 30%;
+        justify-content: center;
+    }
+
+    .mainhead{
+        top:13%;
+        left: 50%;
+        justify-content: center;
+    }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 725px) {
+    .head{
+        left: 25%;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .head{
+        left: 20%;
+        justify-content: center;
+    }
+
+    .head > h1{
+        text-size-adjust: 20px;
+        -webkit-text-size-adjust: 20px;
+    }
+
+    .head > h2{
+        text-size-adjust: 20px;
+        -webkit-text-size-adjust: 20px;
+    }
+
+    .mainhead{
+        top:13%;
+        left: 50%;
+        justify-content: center;
+        width:100%;
+    }
+}
+
+@media screen and (max-width: 547px) {
+    .head{
+        left: 20%;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 436px) {
+    .head{
+        left: 10%;
+        justify-content: center;
+    }
+}
+
+/* MEDIA QUERRIES FOR REMOVING CONSTANTINE / LEAVING LINKS ONLY */
+
+@media screen and (max-width: 390px) {
     .head {
-        width:90%
+        display: none;
     }
-}
 
-@media screen and (max-width: 768px) {
     .mainhead {
-        width:90%
+        top:8%;
+        width: fit-content;
+        height:fit-content;
     }
 }
 
-@media screen and (max-width: 768px) {
-    .infohead {
-        width:90%
+/* MEDIA QUERRIES FOR LINKS */
+
+@media screen and (max-height: 903px) and (max-width: 936px) {
+    .mainhead{
+        top:15%;
+        left: 50%;
+        justify-content: center;
     }
 }
 
-@media screen and (max-width: 768px) {
-    .footer {
-        width:90%
+
+@media screen and (max-height: 761px) and (max-width: 936px) {
+    .mainhead{
+        top:18%;
+        left: 50%;
+        justify-content: center;
     }
 }
 
-@media screen and (max-width: 768px) {
-    header {
-        width:90%
+
+@media screen and (max-height: 622px) and (max-width: 936px) {
+    .mainhead{
+        top:20%;
+        left: 50%;
+        justify-content: center;
     }
 }
 
-@media screen and (max-width: 768px) {
-    header {
-        width:90%
+
+@media screen and (max-height: 533px) and (max-width: 936px) {
+    .mainhead{
+        top:22%;
+        left: 50%;
+        justify-content: center;
     }
 }
+
+
+@media screen and (max-height: 485px) and (max-width: 936px) {
+    .mainhead{
+        top:25%;
+        left: 50%;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-height: 401px) and (max-width: 936px) {
+    .mainhead{
+        top:27%;
+        left: 50%;
+        justify-content: center;
+    }
+}
+
+
+/* MEDIA QUERRIES FOR GAMER | DEVELOPER | YOUTUBER */
 
 @media screen and (max-width: 500px) {
     header > h1{
@@ -352,24 +442,28 @@ html, body, .full {
     and (orientation: portrait) { 
 
         header {
-            width: 90%
+            width: fit-content;
+            height:fit-content;
         }
         
         .subhead {
-            width: 90%
+            width: fit-content;
+            height:fit-content;
         }
   
         .infohead {
-            width: 90%
+            width: fit-content;
+            height:fit-content;
         }
 
         .mainhead {
-            width: 90%
+            width: fit-content;
+            height:fit-content;
         }
 
         .footer {
-            width: 100%;
-            align-items: center;
+            width: fit-content;
+            height:fit-content;
         }
   
 }
@@ -382,24 +476,28 @@ html, body, .full {
     and (orientation: portrait) {
 
         header {
-          width: 90%
+            width: fit-content;
+            height:fit-content;
         }
 
         .subhead {
-            width: 90%
+            width: fit-content;
+            height:fit-content;
         }
 
         .infohead {
-            width: 90%
+            width: fit-content;
+            height:fit-content;
         }
 
         .mainhead {
-            width: 90%
+            width: fit-content;
+            height:fit-content;
         }
 
         .footer {
-          width: 100%;
-          align-items: center;
-        }
+            width: fit-content;
+            height:fit-content;
+            align-items: center;
+        } 
     } 
-}
