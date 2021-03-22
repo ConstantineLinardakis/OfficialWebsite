@@ -30,6 +30,10 @@ ___
 
 03.19.21 - Working on Video Page
 
+03.20.21 - Working on Video/Home Page & JS Scripts & Media Queries
+
+03.22.21 - Working On Media Queries (All Screens Including Phones)
+
 ___
 
 ### Class Diagram Idea's
